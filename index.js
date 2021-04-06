@@ -1,6 +1,6 @@
 
 // Write your code here
 
-var num1=2;
-var num2=31;
+typdef num1=2;
+typdef num2=31;
 let multiply = num1*num2;
